@@ -29,9 +29,9 @@ const IndexPage = () => {
       {/* Hero Container */}
       <Hero
         maxWidth={'500px'}
-        image={'/halongOmegaSeamaster.png'}
-        title={'Essentials for a cold winter'}
-        subtitle={'Discover Autumn Winter 2021'}
+        image={'/hoian.jpeg'}
+        title={'Timeless Timepieces'}
+        subtitle={'Discover your vintage watches'}
         ctaText={'shop now'}
         ctaAction={goToShop}
       />
