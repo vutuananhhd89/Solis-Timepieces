@@ -26,21 +26,21 @@
         "name": "Classic T-Shirt",
         "price": 75,
         "alt": "classic t-shirt 1",
-        "image": "/products/shirt1.jpg",
+        "image": "/products/citizen1.jpg",
         "tags": ["shirt", "men"]
     },
     {
         "name": "Classic T-Shirt",
-        "price": 75,
+        "price": 80,
         "alt": "classic t-shirt 2",
-        "image": "/products/shirt2.jpg",
+        "image": "/products/citizen2.jpg",
         "tags": ["shirt", "men"]
     },
     {
         "name": "Classic T-Shirt",
-        "price": 75,
+        "price": 100,
         "alt": "classic t-shirt 3",
-        "image": "/products/shirt3.jpg",
+        "image": "/products/citizen3.jpg",
         "tags": ["shirt", "men"]
     },
     {

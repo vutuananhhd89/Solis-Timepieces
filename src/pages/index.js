@@ -29,7 +29,7 @@ const IndexPage = () => {
       {/* Hero Container */}
       <Hero
         maxWidth={'500px'}
-        image={'/omega2.jpeg'}
+        image={'/omega2.jpg'}
         title={'Timeless Timepieces'}
         subtitle={'Discover your vintage watches'}
         ctaText={'shop now'}
