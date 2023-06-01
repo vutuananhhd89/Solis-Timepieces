@@ -13,7 +13,6 @@ const Brand = (props) => {
       {/* <h4>SOLIS</h4> */}
       <svg 
         xmlns="http://www.w3.org/2000/svg" 
-        xmlns:xlink="http://www.w3.org/1999/xlink"
         width={127}
         height={24}
         viewBox="0 0 127.67 23.36"
