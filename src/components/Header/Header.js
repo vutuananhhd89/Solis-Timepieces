@@ -126,21 +126,21 @@ const Header = (prop) => {
                 setShowSearch(!showSearch);
               }}
             >
-              <Icon symbol={'search'}></Icon>
+              {/* <Icon symbol={'search'}></Icon> */}
             </button>
             <Link
               aria-label="Favorites"
               href="/account/favorites"
               className={`${styles.iconContainer} ${styles.hideOnMobile}`}
             >
-              <Icon symbol={'heart'}></Icon>
+              {/* <Icon symbol={'heart'}></Icon> */}
             </Link>
             <Link
               aria-label="Orders"
               href={isAuth() ? '/login' : '/account/orders/'}
               className={`${styles.iconContainer} ${styles.hideOnMobile}`}
             >
-              <Icon symbol={'user'}></Icon>
+              {/* <Icon symbol={'user'}></Icon> */}
             </Link>
             <button
               aria-label="Cart"
@@ -150,10 +150,10 @@ const Header = (prop) => {
                 setMobileMenu(false);
               }}
             >
-              <Icon symbol={'bag'}></Icon>
-              <div className={styles.bagNotification}>
+              {/* <Icon symbol={'bag'}></Icon> */}
+              {/* <div className={styles.bagNotification}>
                 <span>1</span>
-              </div>
+              </div> */}
             </button>
             <div className={styles.notificationContainer}>
               <AddNotification openCart={() => setShowMiniCart(true)} />

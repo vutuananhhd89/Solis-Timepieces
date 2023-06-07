@@ -13,9 +13,7 @@
   ],
   "social": {
     "facebook": "https://www.facebook.com/MatterDesign/",
-    "instagram": "https://www.instagram.com/p/CVwMlChIWmW",
-    "twitter": "https://twitter.com/hellomatter",
-    "youtube": "https://www.youtube.com/channel/UCEOu94Haa--QmltsSawflXg"
+    "instagram": "https://www.instagram.com/p/CVwMlChIWmW"
   },
   "paymentOptions": {
     "visa": true,
@@ -31,7 +29,7 @@
           "link": "/about"
         },
         {
-          "text": "Journal",
+          "text": "Stories",
           "link": "/blog"
         },
         {
@@ -54,10 +52,6 @@
         {
           "text": "Shipping & Returns",
           "link": "/support#returns"
-        },
-        {
-          "text": "How to use this theme",
-          "link": "/how-to-use"
         }
       ]
     }
@@ -68,60 +62,60 @@
       "menuLink": "/shop",
       "category": [
         {
-          "categoryLabel": "woman",
+          "categoryLabel": "citizen",
           "submenu": [
             {
-              "menuLabel": "All clothing",
+              "menuLabel": "Automatic",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "sweatshirts & hoodies",
+              "menuLabel": "Chronograph",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "jackets",
-              "menuLink": "/shop"
-            },
-            {
-              "menuLabel": "trousers",
+              "menuLabel": "Promaster",
               "menuLink": "/shop"
             }
           ]
         },
         {
-          "categoryLabel": "men",
+          "categoryLabel": "longines",
           "submenu": [
             {
-              "menuLabel": "All clothing",
+              "menuLabel": "Dive watches",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "sweatshirts & hoodies",
+              "menuLabel": "Dress watches",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "jackets",
+              "menuLabel": "Pilot watches",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "trousers",
-              "menuLink": "/shop"
-            },
-            {
-              "menuLabel": "pants",
+              "menuLabel": "Sport watches",
               "menuLink": "/shop"
             }
           ]
         },
         {
-          "categoryLabel": "accessories",
+          "categoryLabel": "omega",
           "submenu": [
             {
-              "menuLabel": "caps & scarves",
+              "menuLabel": "Constellation",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "bags",
+              "menuLabel": "De Ville",
+              "menuLink": "/shop"
+            },
+            {
+              "menuLabel": "Seamaster",
+              "menuLink": "/shop"
+            },
+            {
+              "menuLabel": "Speedmaster",
               "menuLink": "/shop"
             }
           ]
@@ -129,12 +123,12 @@
       ]
     },
     {
-      "menuLabel": "journal",
+      "menuLabel": "Stories",
       "menuLink": "/blog",
       "category": null
     },
     {
-      "menuLabel": "About",
+      "menuLabel": "SOLIS",
       "menuLink": "/about",
       "category": null
     }

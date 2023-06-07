@@ -29,7 +29,7 @@ const IndexPage = () => {
       {/* Hero Container */}
       <Hero
         maxWidth={'500px'}
-        image={'/omega2.jpg'}
+        image={'/banner1.jpg'}
         title={'Timeless Timepieces'}
         subtitle={'Discover your vintage watches'}
         ctaText={'shop now'}
@@ -55,11 +55,11 @@ const IndexPage = () => {
         <Container size={'large'} fullMobile>
           <Highlight
             image={'/highlight.png'}
-            altImage={'highlight image'}
+            altImage={'Universal Geneve'}
             miniImage={'/highlightmin.png'}
-            miniImageAlt={'mini highlight image'}
-            title={'Luxury Knitwear'}
-            description={`This soft lambswool jumper is knitted in Scotland, using yarn from one of the world's oldest spinners based in Fife`}
+            miniImageAlt={'Universal Geneve back'}
+            title={'Universal Geneve'}
+            description={`Rare and original 1941-42 Universal Geneve waterproof-style man's larger size Spillmann-cased chronograph, in very good condition and in proper working`}
             textLink={'shop now'}
             link={'/shop'}
           />
@@ -68,7 +68,7 @@ const IndexPage = () => {
       {/* Quote */}
       <Quote
         bgColor={'var(--standard-light-grey)'}
-        title={'about Sydney'}
+        title={'about Solis'}
         quote={
           '“We believe in two things: the pursuit of quality in everything we do, and looking after one another. Everything else should take care of itself.”'
         }

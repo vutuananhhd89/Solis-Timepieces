@@ -67,7 +67,7 @@ const Footer = (prop) => {
                 </div>
               );
             })}
-            <div className={styles.newsLetter}>
+            {/* <div className={styles.newsLetter}>
               <div className={styles.newsLetterContent}>
                 <span className={styles.linkTitle}>Newsletter</span>
                 <p className={styles.promoMessage}>
@@ -128,7 +128,7 @@ const Footer = (prop) => {
                   )}
                 </div>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </Container>

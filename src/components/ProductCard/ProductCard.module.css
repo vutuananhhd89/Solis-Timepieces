@@ -73,10 +73,10 @@
     transition: opacity 0.3s ease-in-out;
 }
 
-.imageContainer:hover .bagContainer {
+/* .imageContainer:hover .bagContainer {
     opacity: 1;
     visibility: visible;
-}
+} */
 
 .heartContainer {
     position: absolute;
@@ -88,10 +88,10 @@
     transition: opacity 0.3s ease-in-out;
 }
 
-.root:hover .heartContainer {
+/* .root:hover .heartContainer {
     opacity: 1;
     visibility: visible;
-}
+} */
 
 .heartFillContainer {
     position: absolute;
