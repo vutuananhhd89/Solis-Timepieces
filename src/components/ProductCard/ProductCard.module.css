@@ -118,7 +118,7 @@
 }
 
 @media (max-width: 800px) {
-    .bagContainer {
+    /* .bagContainer {
         opacity: 1;
         visibility: visible;
     }
@@ -126,7 +126,7 @@
     .heartContainer {
         opacity: 1;
         visibility: visible;
-    }
+    } */
 }
 
 @media (max-width: 600px) {
@@ -151,7 +151,7 @@
         height: 220px !important;
     }
 
-    .bagContainer {
+    /* .bagContainer {
         width: 40px;
         height: 40px;
     }
@@ -164,5 +164,5 @@
     .heartContainer {
         top: 32px;
         right: 16px;
-    }
+    } */
 }

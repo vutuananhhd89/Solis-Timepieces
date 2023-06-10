@@ -4,18 +4,19 @@
 }
 
 .content {
-    padding-top: 72px;
+    padding-top: 60px;
     padding-bottom: 40px;
 }
 
 .contentTop {
-    display: grid;
-    grid-template-columns: 0.25fr 0.25fr 0.5fr;
+    display: flex;
+    justify-content: center;
+    /* grid-template-columns: 0.25fr 0.25fr 0.5fr; */
 }
 
 .newsLetter {
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
 }
 
 .newsLetterContent {
@@ -70,9 +71,11 @@
 }
 
 .socialContainer {
+    margin-top: 30px;
+    align-items: center;
     width: 100%;
     display: flex;
-    flex-direction: row-reverse;
+    justify-content: center;
 }
 
 .socialIconContainer {
@@ -102,8 +105,8 @@
 
 .contentBottom {
     margin-top: 40px;
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    display: flex;
+    justify-content: center;
 }
 
 .settings {
@@ -148,7 +151,7 @@
 
 .copyrightContainer {
     display: flex;
-    align-items: flex-end;
+    justify-content: center;
     flex-direction: column;
 }
 
@@ -237,7 +240,7 @@
 
     .settings {
         display: grid;
-        grid-template-columns: 0.55fr 0.45fr;
+        grid-template-columns: 0.5fr 0.5fr;
         gap: 16px;
     }
 
