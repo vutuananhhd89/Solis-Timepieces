@@ -44,33 +44,31 @@
         "tags": ["shirt", "men"]
     },
     {
-        "name": "Relaxed-fit graphic T-shirt",
-        "price": 13.90,
-        "alt": "relaxed t shirt woman",
-        "image": "/products/woman1.jpeg",
-        "tags": ["woman"],
-        "meta": "+ 2 colors"
+        "name": "Omega Seamaster",
+        "price": 429,
+        "alt": "Omega Seamaster",
+        "image": "/products/new1.jpg",
+        "tags": ["woman"]
     },
     {
-        "name": "Relaxed-fit graphic T-shirt",
-        "price": 15.90,
-        "alt": "relaxed t shirt woman",
-        "image": "/products/woman2.jpeg",
+        "name": "Longines 6190",
+        "price": 228,
+        "alt": "Longines 6190",
+        "image": "/products/new2.jpg",
         "tags": ["woman"]
     },    
     {
-        "name": "Relaxed-fit graphic T-shirt",
-        "price": 13.90,
-        "alt": "relaxed t shirt woman",
-        "image": "/products/woman3.jpeg",
-        "tags": ["woman"],
-        "meta": "+ 2 colors"
+        "name": "Citizen v2",
+        "price": 199,
+        "alt": "Citizen v2",
+        "image": "/products/new3.jpg",
+        "tags": ["woman"]
     },
     {
-        "name": "Relaxed-fit graphic T-shirt",
-        "price": 15.90,
-        "alt": "relaxed t shirt woman",
-        "image": "/products/woman4.jpeg",
+        "name": "Universal geneve",
+        "price": 119,
+        "alt": "Universal geneve",
+        "image": "/products/new4.jpg",
         "tags": ["woman"]
     },
     {

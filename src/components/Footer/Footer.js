@@ -53,7 +53,7 @@ const Footer = (prop) => {
               <div className={styles.newsLetterContent}>
                 <span className={styles.linkTitle}>Discover more vintage watches</span>
                 <p className={styles.promoMessage}>
-                  Get 10% off when buying our 1st watch of the week through Instagram & Facebook
+                  Get 10% off when buying the 1st watch of the week from SOLIS Instagram & Facebook
                 </p>
                 {/* <form
                   className={styles.newsLetterForm}
